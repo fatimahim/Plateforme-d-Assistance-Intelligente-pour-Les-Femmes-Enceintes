@@ -1,4 +1,5 @@
-![Acceuil](https://github.com/user-attachments/assets/5f9eaf32-69ad-44b6-b39f-413c1ba37939)# Chatbot and Risk Prediction Platform
+![Acceuil](https://github.com/user-attachments/assets/5f9eaf32-69ad-44b6-b39f-413c1ba37939)
+# Chatbot and Risk Prediction Platform
 
 This project integrates two advanced features to assist pregnant women:
 
@@ -61,10 +62,13 @@ Users can:
    ```bash
    python manage.py runserver
 ##  Interface
-![Acceuil](https://github.com/user-attachments/assets/f22a4710-3696-4f95-9f79-0f52e0e24c54)
+
 ![Chatbot](https://github.com/user-attachments/assets/2c63c9e6-14ba-4e2c-b519-d7bcc7b93906)
+
 ![connexion](https://github.com/user-attachments/assets/920b97f9-da4a-45c4-8d74-0952b113726e)
+
 ![Inscription](https://github.com/user-attachments/assets/1ff1b599-dbed-4dc1-8ede-57281c680d0c)
+
 ![Predictionderisque](https://github.com/user-attachments/assets/4703cf27-eb48-4e64-bfd5-4b487493f815)
 
 
