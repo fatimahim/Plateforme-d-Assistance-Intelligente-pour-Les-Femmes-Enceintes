@@ -60,5 +60,11 @@ Users can:
 3. Run the development server:
    ```bash
    python manage.py runserver
+##  Interface
+![Chatbot Interface](interface/Acceuil.png)
+![Chatbot Interface](interface/connexion.png)
+![Chatbot Interface](interface/Inscription.png)
+![Chatbot Interface](interface/Chatbot.png)
+![Chatbot Interface](interface/Predictionderisque.png)
 
 
