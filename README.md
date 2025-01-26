@@ -51,4 +51,4 @@ Users can:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-risk-prediction.git
+   git clone https://github.com/fatimahim/Plateforme-d-Assistance-Intelligente-pour-Les-Femmes-Enceintes
