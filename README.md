@@ -61,10 +61,11 @@ Users can:
    ```bash
    python manage.py runserver
 ##  Interface
-![Chatbot Interface](interface/Acceuil.png)
-![Chatbot Interface](interface/connexion.png)
-![Chatbot Interface](interface/Inscription.png)
+![Accueil Page](interface/Acceuil.png)
+![Login Page](interface/connexion.png)
+![Signup Page](interface/Inscription.png)
 ![Chatbot Interface](interface/Chatbot.png)
-![Chatbot Interface](interface/Predictionderisque.png)
+![Risk Prediction Interface](interface/Predictionderisque.png)
+
 
 
