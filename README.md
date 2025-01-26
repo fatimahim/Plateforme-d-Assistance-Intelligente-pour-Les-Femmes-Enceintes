@@ -52,3 +52,13 @@ Users can:
 1. Clone the repository:
    ```bash
    git clone https://github.com/fatimahim/Plateforme-d-Assistance-Intelligente-pour-Les-Femmes-Enceintes
+   
+2. python manage.py migrate:
+   ```bash
+   python manage.py migrate
+   
+3. Run the development server:
+   ```bash
+   python manage.py runserver
+
+
